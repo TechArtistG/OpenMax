@@ -3,6 +3,9 @@ OpenMax
 
 An Open Source framework built with Maxscript, .Net and C++ to extend the capabilities of Autodesk 3DS Max
 
+
+
+
 Description:
 
 There are many, many tallented Technical Artists, Technical Directors, Programmers and Artists uisng 3DS Max every day in the games, film and design industries.  Every day you come across problems that 3DS Max can't do tasks out of the box, or can't do them very efficiently.  OpenMax will help you every day by adding tools and framworks to get you more productive.
@@ -13,8 +16,17 @@ OpenMax provides a plethora of tools straight out of the box to help you with yo
 For the TA/TD:
 OpenMax provides a framework of maxscript, .Net and SDK functionality to ease the process of creating new tools
 
+
+
+
+
 Installation:
+
 TBD
+
+
+
+
 
 LOG:
 (Noete: Dates are in DD/MM/YYYY format)
